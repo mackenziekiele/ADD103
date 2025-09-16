@@ -1,1 +1,1 @@
-git merge <review>
+git merge <main>
