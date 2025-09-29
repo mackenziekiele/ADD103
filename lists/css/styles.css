@@ -1,0 +1,28 @@
+body {
+  background: ivory;
+  color: rgb(62, 41, 11);
+}
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: upper-roman;
+}
+dt {
+  font-weight: bold;
+  color: #4b3190;
+}
+dd {
+  font-style: italic;
+  color: #333;
+}
+ul ul {
+  list-style-type: circle;
+}
+ul ol {
+  list-style-type: decimal;
+}
